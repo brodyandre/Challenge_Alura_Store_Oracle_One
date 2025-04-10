@@ -1,5 +1,9 @@
 # 📊 Análise de Dados das Lojas - Challenge Data Science
 
+Desafio: Análise de Vendas e Desempenho de Lojas...
+
+Problema a ser Analizado: Sr. João é proprietário de 4 lojas do varejo, e pediu para a equipe de Data Science, que elaborasse um relatório das 4 lojas, trazendo informações de qual loja seria a menos eficiente, para que ele pudesse tomar a decisão de vender a loja menos eficiente com base nos dados
+
 Este projeto realiza uma análise exploratória e estatística de dados de quatro lojas diferentes com base em um desafio de Data Science da Alura. Utilizando Python e bibliotecas como `pandas` e `matplotlib`, extraímos insights valiosos sobre vendas, avaliações, frete e produtos mais/menos vendidos.
 
 ---
@@ -35,12 +39,13 @@ Os dados utilizados neste projeto estão disponíveis publicamente no GitHub da 
 - **Média de Avaliações**: Nota média dada por clientes para cada loja.
 - **Produtos Mais e Menos Vendidos**: Ranking com base no volume de vendas.
 - **Frete Médio por Loja**: Custo médio de entrega por unidade.
+- **Relatório Final**: Para a Tomada de Decisão.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python 3.x
+- Python 3.13.2
 - Pandas
 - Matplotlib
 - Jupyter Notebook
